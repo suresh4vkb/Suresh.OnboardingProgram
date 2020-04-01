@@ -1,0 +1,20 @@
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\bin\Debug\netstandard2.0\Common.Utilities.deps.json
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.csprojAssemblyReference.cache
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.AssemblyInfoInputs.cache
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.AssemblyInfo.cs
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.dll
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.Resources.resources
+C:\Suresh\My Learning\.Net Onboarding Program\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.csproj.GenerateResource.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\bin\Debug\netstandard2.0\Common.Utilities.deps.json
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.csprojAssemblyReference.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.Resources.resources
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.csproj.GenerateResource.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.AssemblyInfoInputs.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.AssemblyInfo.cs
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Common.Utilities\obj\Debug\netstandard2.0\Common.Utilities.pdb

@@ -1,0 +1,22 @@
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\bin\Debug\netstandard2.0\DelegatesAndEvents.deps.json
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\bin\Debug\netstandard2.0\DelegatesAndEvents.dll
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\bin\Debug\netstandard2.0\DelegatesAndEvents.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.AssemblyInfo.cs
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.dll
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\bin\Debug\netstandard2.0\DelegatesAndEvents.deps.json
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\bin\Debug\netstandard2.0\DelegatesAndEvents.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\bin\Debug\netstandard2.0\DelegatesAndEvents.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.AssemblyInfo.cs
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\DelegatesAndEvents\obj\Debug\netstandard2.0\DelegatesAndEvents.pdb

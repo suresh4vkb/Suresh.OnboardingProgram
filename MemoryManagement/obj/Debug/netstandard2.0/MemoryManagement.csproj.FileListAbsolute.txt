@@ -1,0 +1,22 @@
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\bin\Debug\netstandard2.0\MemoryManagement.deps.json
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\bin\Debug\netstandard2.0\MemoryManagement.dll
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\bin\Debug\netstandard2.0\MemoryManagement.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.csprojAssemblyReference.cache
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.AssemblyInfoInputs.cache
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.AssemblyInfo.cs
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.dll
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\bin\Debug\netstandard2.0\MemoryManagement.deps.json
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\bin\Debug\netstandard2.0\MemoryManagement.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\bin\Debug\netstandard2.0\MemoryManagement.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.csprojAssemblyReference.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.AssemblyInfoInputs.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.AssemblyInfo.cs
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\MemoryManagement\obj\Debug\netstandard2.0\MemoryManagement.pdb

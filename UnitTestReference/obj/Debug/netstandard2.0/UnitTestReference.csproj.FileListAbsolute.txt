@@ -1,0 +1,26 @@
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\bin\Debug\netstandard2.0\UnitTestReference.deps.json
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\bin\Debug\netstandard2.0\UnitTestReference.dll
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\bin\Debug\netstandard2.0\UnitTestReference.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\bin\Debug\netstandard2.0\ExceptionHandling.dll
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\bin\Debug\netstandard2.0\ExceptionHandling.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.csprojAssemblyReference.cache
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.AssemblyInfoInputs.cache
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.AssemblyInfo.cs
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.csproj.CopyComplete
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.dll
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Suresh\My Learning\.Net Onboarding Program\UnitTestReference\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\bin\Debug\netstandard2.0\UnitTestReference.deps.json
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\bin\Debug\netstandard2.0\UnitTestReference.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\bin\Debug\netstandard2.0\UnitTestReference.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\bin\Debug\netstandard2.0\ExceptionHandling.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\bin\Debug\netstandard2.0\ExceptionHandling.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.csprojAssemblyReference.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.AssemblyInfoInputs.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.AssemblyInfo.cs
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\UnitTestReference\obj\Debug\netstandard2.0\UnitTestReference.pdb

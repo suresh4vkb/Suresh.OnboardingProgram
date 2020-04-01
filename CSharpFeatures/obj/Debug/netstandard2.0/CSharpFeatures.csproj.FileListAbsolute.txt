@@ -1,0 +1,22 @@
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\bin\Debug\netstandard2.0\CSharpFeatures.deps.json
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\bin\Debug\netstandard2.0\CSharpFeatures.dll
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\bin\Debug\netstandard2.0\CSharpFeatures.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.csprojAssemblyReference.cache
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.AssemblyInfoInputs.cache
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.AssemblyInfo.cs
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.dll
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\bin\Debug\netstandard2.0\CSharpFeatures.deps.json
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\bin\Debug\netstandard2.0\CSharpFeatures.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\bin\Debug\netstandard2.0\CSharpFeatures.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.csprojAssemblyReference.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.AssemblyInfoInputs.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.AssemblyInfo.cs
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CSharpFeatures\obj\Debug\netstandard2.0\CSharpFeatures.pdb

@@ -1,0 +1,22 @@
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\bin\Debug\netstandard2.0\CollectionsAndGenerics.deps.json
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\bin\Debug\netstandard2.0\CollectionsAndGenerics.dll
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\bin\Debug\netstandard2.0\CollectionsAndGenerics.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.AssemblyInfoInputs.cache
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.AssemblyInfo.cs
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.dll
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.csprojAssemblyReference.cache
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\bin\Debug\netstandard2.0\CollectionsAndGenerics.deps.json
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\bin\Debug\netstandard2.0\CollectionsAndGenerics.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\bin\Debug\netstandard2.0\CollectionsAndGenerics.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.csprojAssemblyReference.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.AssemblyInfoInputs.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.AssemblyInfo.cs
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\CollectionsAndGenerics\obj\Debug\netstandard2.0\CollectionsAndGenerics.pdb

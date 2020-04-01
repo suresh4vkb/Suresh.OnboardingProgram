@@ -1,0 +1,22 @@
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\bin\Debug\netstandard2.0\Linq.deps.json
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\bin\Debug\netstandard2.0\Linq.dll
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\bin\Debug\netstandard2.0\Linq.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\obj\Debug\netstandard2.0\Linq.AssemblyInfoInputs.cache
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\obj\Debug\netstandard2.0\Linq.AssemblyInfo.cs
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\obj\Debug\netstandard2.0\Linq.dll
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\obj\Debug\netstandard2.0\Linq.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\obj\Debug\netstandard2.0\Linq.csprojAssemblyReference.cache
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Suresh\My Learning\.Net Onboarding Program\Linq\obj\Debug\netstandard2.0\Linq.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\bin\Debug\netstandard2.0\Linq.deps.json
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\bin\Debug\netstandard2.0\Linq.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\bin\Debug\netstandard2.0\Linq.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\bin\Debug\netstandard2.0\Common.Utilities.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\bin\Debug\netstandard2.0\Common.Utilities.pdb
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\obj\Debug\netstandard2.0\Linq.csprojAssemblyReference.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\obj\Debug\netstandard2.0\Linq.AssemblyInfoInputs.cache
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\obj\Debug\netstandard2.0\Linq.AssemblyInfo.cs
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\obj\Debug\netstandard2.0\Linq.csproj.CopyComplete
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\obj\Debug\netstandard2.0\Linq.dll
+C:\Users\Suresh_Adimulam\Desktop\Git\Suresh.OnboardingProgram\Linq\obj\Debug\netstandard2.0\Linq.pdb
